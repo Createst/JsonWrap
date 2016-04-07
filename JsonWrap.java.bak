@@ -71,7 +71,7 @@ public class JsonWrap {
             throw new RuntimeException("参数不能为null");
 			return null；
         }
-		if( o instanceof collection || o instanceof map)
+		if( o instance of collection || o instance of map)
 		{
 			throw new RuntimeException("参数不能为集合");
 			return null；
